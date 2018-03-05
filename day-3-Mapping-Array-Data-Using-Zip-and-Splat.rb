@@ -1,6 +1,6 @@
 require 'rspec'
 
-headers = [
+eaders = [
   '1B',
   '2B',
   '3B',
@@ -12,7 +12,7 @@ headers = [
   'RF'
 ]
 
-astros = [
+stros = [
   'Gurriel',
   'Altuve',
   'Bregman',
@@ -24,7 +24,7 @@ astros = [
   'Reddick'
 ]
 
-rangers = [
+angers =[
   'Fielder',
   'Andrus',
   'Odor',
@@ -40,6 +40,9 @@ rangers = [
 def position_filter(headers, *data)
   headers.zip(*data)
 end
+
+# Example:
+# position_filter headers, astros, rangers
 
 describe 'Position Filter' do
   it 'lines up players with their positions' do
