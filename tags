@@ -1,0 +1,110 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+Array	day-22-Return-Odd-Elements-from-an-Array.rb	/^class Array$/;"	c
+Array	day-25-Finding-the-Average-Value-in-an-Array.rb	/^class Array$/;"	c
+Array	day-30-Rebuild-the-include-Method.rb	/^class Array$/;"	c
+Array	day-31-How-to-Check-if-a-Value-Exists-in-a-Set-of-Nested-Hashes.rb	/^class Array$/;"	c
+Array	day-38-Manually-Removing-Duplicates-From-an-Array.rb	/^class Array$/;"	c
+Array	day-9-Building-Bubble-Sort-From-Scratch.rb	/^class Array$/;"	c
+BookKeeping	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming.rb	/^module BookKeeping$/;"	m
+BookKeeping	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond.rb	/^ module BookKeeping$/;"	m
+BookKeeping	day-36-RNA-Transcription/rna_transcription.rb	/^module BookKeeping$/;"	m
+Complement	day-36-RNA-Transcription/rna_transcription.rb	/^class Complement$/;"	c
+ContentController	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^class ContentController$/;"	c
+Gigasecond	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond.rb	/^class Gigasecond$/;"	c
+GigasecondTest	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond_test.rb	/^class GigasecondTest < Minitest::Test$/;"	c
+Hamming	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming.rb	/^class Hamming$/;"	c
+HammingTest	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^class HammingTest < Minitest::Test$/;"	c
+Hash	day-10-Converting-a-Hash-to-an-URL-Friendly-String.rb	/^class Hash$/;"	c
+HtmlContent	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^module HtmlContent$/;"	m
+HtmlController	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^class HtmlController$/;"	c
+RnaTranscriptionTest	day-36-RNA-Transcription/rna_transcription_test.rb	/^class RnaTranscriptionTest < Minitest::Test$/;"	c
+RubyContent	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^module RubyContent$/;"	m
+String	day-14-Word-Counting-and-Reporting.rb	/^class String$/;"	c
+String	day-26-Reverse-the-Letters-in-a-String-Without-Using-the-Reverse-Method.rb	/^class String$/;"	c
+String	day-7-Split-Join-Each-and-Map-Methods.rb	/^class String$/;"	c
+User	day-37-Build-a-User-Class-that-Can-Be-Passed-a-Block-to-Set-Its-Values.rb	/^class User$/;"	c
+alt_reverse	day-26-Reverse-the-Letters-in-a-String-Without-Using-the-Reverse-Method.rb	/^  def alt_reverse$/;"	f	class:String
+alt_reverse	day-7-Split-Join-Each-and-Map-Methods.rb	/^  def alt_reverse$/;"	f	class:String
+array_rotation	day-27-How-to-Rotate-Elements-in-an-Array.rb	/^def array_rotation arr, num$/;"	f
+average	day-25-Finding-the-Average-Value-in-an-Array.rb	/^  def average$/;"	f	class:Array
+bubble_sort	day-9-Building-Bubble-Sort-From-Scratch.rb	/^  def bubble_sort$/;"	f	class:Array
+commentize	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^    def commentize$/;"	f	class:HtmlContent
+commentize	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^    def commentize$/;"	f	class:RubyContent
+compute	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming.rb	/^  def self.compute a, b$/;"	F	class:Hamming
+csv_tool	day-39-Build-a-CSV-File-Generator.rb	/^def csv_tool headers, data$/;"	f
+currency_converter	day-11-Build-a-Currency-Converter.rb	/^def currency_converter amount, location$/;"	f
+daily_special	day-18-Extract-a-Random-Element-from-a-Collection-of-Arrays-Nested-in-a-Hash.rb	/^def daily_special hash$/;"	f
+day_counter	day-33-Calculate-the-Number-of-Days-Between-Two-Dates.rb	/^def day_counter$/;"	f
+does_it_have?	day-30-Rebuild-the-include-Method.rb	/^  def does_it_have? element$/;"	f	class:Array
+fraction_calculator	day-20-Build-a-Fraction-Calculator.rb	/^def fraction_calculator fraction_one, fraction_two, operator$/;"	f
+from	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond.rb	/^  def self.from date$/;"	F	class:Gigasecond
+game	day-29-Build-a-High-Low-Game.rb	/^def game$/;"	f
+generate_alphabet	day-16-Generate-the-Alphabet.rb	/^def generate_alphabet$/;"	f
+hashed_fizz_buzz	day-24-Hashed-FizzBuzz.rb	/^def hashed_fizz_buzz num$/;"	f
+hidden_content	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^  def hidden_content$/;"	f	class:ContentController
+hidden_content	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^  def hidden_content$/;"	f	class:HtmlController
+html_generator	day-13-Using-Ruby-Here-Doc-Syntax-to-Dynamically-Generate-HTML-Code.rb	/^def html_generator title$/;"	f
+increment_value	day-17-Add-the-Next-Letter-or-Number-in-a-String-Sequence.rb	/^def increment_value str$/;"	f
+initialize	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^  def initialize(word)$/;"	f	class:ContentController
+initialize	day-15-How-to-Use-Ruby-Refinements-to-Adds-Methods-to-Customized-Classes.rb	/^  def initialize(word)$/;"	f	class:HtmlController
+initialize	day-37-Build-a-User-Class-that-Can-Be-Passed-a-Block-to-Set-Its-Values.rb	/^  def initialize$/;"	f	class:User
+is_valid_email?	day-40-Create-an-email-Matcher.rb	/^def is_valid_email? email$/;"	f
+large_number_processor	day-19-Accurately-Calculating-Large-Decimals.rb	/^def large_number_processor num_1, num_2$/;"	f
+multiplication_table	day-32-Build-a-Multiplication-Table-Generator.rb	/^def multiplication_table num$/;"	f
+my_reverse	day-7-Split-Join-Each-and-Map-Methods.rb	/^def my_reverse str$/;"	f
+new_max	day-6-Efficiently-Finding-the-Largest-Item-in-an-Array.rb	/^def new_max array_of_elements$/;"	f
+odd_selector	day-22-Return-Odd-Elements-from-an-Array.rb	/^  def odd_selector$/;"	f	class:Array
+of_dna	day-36-RNA-Transcription/rna_transcription.rb	/^  def self.of_dna(strand)$/;"	F	class:Complement
+palindrome?	day-8-Creating-a-Palindrome-Method.rb	/^def palindrome? word$/;"	f
+param_converter	day-10-Converting-a-Hash-to-an-URL-Friendly-String.rb	/^  def param_converter$/;"	f	class:Hash
+position_filter	day-3-Mapping-Array-Data-Using-Zip-and-Splat.rb	/^def position_filter(headers, *data)$/;"	f
+pseudo_random	day-23-Build-a-Pseudo-Random-Number-Generator-that-Follows-a-Specific-Sequence.rb	/^def pseudo_random num$/;"	f
+random_numbers	day-4-Generate-an-Array-of-Random-Numbers.rb	/^def random_numbers$/;"	f
+remove_duplicates	day-38-Manually-Removing-Duplicates-From-an-Array.rb	/^  def remove_duplicates$/;"	f	class:Array
+sentence_join	day-7-Split-Join-Each-and-Map-Methods.rb	/^def sentence_join array$/;"	f
+sentence_reverser	day-2-Reversing-the-Word-in-a-string.rb	/^def sentence_reverser str$/;"	f
+string_parser	day-1-Parsing-a-String-with-Multiple-Matches.rb	/^def string_parser string_array$/;"	f
+style_projects_with_each	day-7-Split-Join-Each-and-Map-Methods.rb	/^def style_projects_with_each projects$/;"	f
+style_projects_with_map	day-7-Split-Join-Each-and-Map-Methods.rb	/^def style_projects_with_map projects$/;"	f
+sum_generator	day-21-Build-a-Dynamic-Sum-Method.rb	/^def sum_generator num$/;"	f
+test_bookkeeping	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_bookkeeping$/;"	f	class:HammingTest
+test_bookkeeping	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond_test.rb	/^  def test_bookkeeping$/;"	f	class:GigasecondTest
+test_bookkeeping	day-36-RNA-Transcription/rna_transcription_test.rb	/^  def test_bookkeeping$/;"	f	class:RnaTranscriptionTest
+test_complete_distance_in_single_nucleotide_strands	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_complete_distance_in_single_nucleotide_strands$/;"	f	class:HammingTest
+test_complete_distance_in_small_strands	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_complete_distance_in_small_strands$/;"	f	class:HammingTest
+test_correctly_handles_completely_invalid_dna_input	day-36-RNA-Transcription/rna_transcription_test.rb	/^  def test_correctly_handles_completely_invalid_dna_input$/;"	f	class:RnaTranscriptionTest
+test_correctly_handles_invalid_input_rna_instead_of_dna	day-36-RNA-Transcription/rna_transcription_test.rb	/^  def test_correctly_handles_invalid_input_rna_instead_of_dna$/;"	f	class:RnaTranscriptionTest
+test_correctly_handles_partially_invalid_dna_input	day-36-RNA-Transcription/rna_transcription_test.rb	/^  def test_correctly_handles_partially_invalid_dna_input$/;"	f	class:RnaTranscriptionTest
+test_date_only_specification_of_time	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond_test.rb	/^  def test_date_only_specification_of_time$/;"	f	class:GigasecondTest
+test_disallow_first_strand_longer	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_disallow_first_strand_longer$/;"	f	class:HammingTest
+test_disallow_second_strand_longer	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_disallow_second_strand_longer$/;"	f	class:HammingTest
+test_empty_strands	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_empty_strands$/;"	f	class:HammingTest
+test_full_time_specified	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond_test.rb	/^  def test_full_time_specified$/;"	f	class:GigasecondTest
+test_full_time_with_day_roll_over	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond_test.rb	/^  def test_full_time_with_day_roll_over$/;"	f	class:GigasecondTest
+test_identical_strands	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_identical_strands$/;"	f	class:HammingTest
+test_large_distance	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_large_distance$/;"	f	class:HammingTest
+test_large_distance_in_off_by_one_strand	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_large_distance_in_off_by_one_strand$/;"	f	class:HammingTest
+test_long_identical_strands	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_long_identical_strands$/;"	f	class:HammingTest
+test_non_unique_character_in_first_strand	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_non_unique_character_in_first_strand$/;"	f	class:HammingTest
+test_non_unique_character_in_second_strand	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_non_unique_character_in_second_strand$/;"	f	class:HammingTest
+test_rna_complement	day-36-RNA-Transcription/rna_transcription_test.rb	/^  def test_rna_complement$/;"	f	class:RnaTranscriptionTest
+test_rna_complement_of_adenine_is_uracil	day-36-RNA-Transcription/rna_transcription_test.rb	/^  def test_rna_complement_of_adenine_is_uracil$/;"	f	class:RnaTranscriptionTest
+test_rna_complement_of_cytosine_is_guanine	day-36-RNA-Transcription/rna_transcription_test.rb	/^  def test_rna_complement_of_cytosine_is_guanine$/;"	f	class:RnaTranscriptionTest
+test_rna_complement_of_guanine_is_cytosine	day-36-RNA-Transcription/rna_transcription_test.rb	/^  def test_rna_complement_of_guanine_is_cytosine$/;"	f	class:RnaTranscriptionTest
+test_rna_complement_of_thymine_is_adenine	day-36-RNA-Transcription/rna_transcription_test.rb	/^  def test_rna_complement_of_thymine_is_adenine$/;"	f	class:RnaTranscriptionTest
+test_same_nucleotides_in_different_positions	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_same_nucleotides_in_different_positions$/;"	f	class:HammingTest
+test_second_test_for_date_only_specification_of_time	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond_test.rb	/^  def test_second_test_for_date_only_specification_of_time$/;"	f	class:GigasecondTest
+test_small_distance	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_small_distance$/;"	f	class:HammingTest
+test_small_distance_in_long_strands	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_small_distance_in_long_strands$/;"	f	class:HammingTest
+test_small_distance_in_small_strands	day-34-Calculate-the-Hamming-Difference-Between-Two-DNA-Strands/hamming_test.rb	/^  def test_small_distance_in_small_strands$/;"	f	class:HammingTest
+test_third_test_for_date_only_specification_of_time	day-35-Calculate-the-moment-when-someone-has-lived-for-10_9-seconds/gigasecond_test.rb	/^  def test_third_test_for_date_only_specification_of_time$/;"	f	class:GigasecondTest
+title_creator	day-12-Build-an-HTML-Heading-Generator.rb	/^def title_creator title$/;"	f
+tittle_builder	day-28-Generating-a-Hash-from-Two-Arrays.rb	/^def tittle_builder headers, data$/;"	f
+total_words	day-14-Word-Counting-and-Reporting.rb	/^  def total_words$/;"	f	class:String
+value_included?	day-31-How-to-Check-if-a-Value-Exists-in-a-Set-of-Nested-Hashes.rb	/^  def value_included? element$/;"	f	class:Array
+word_list	day-14-Word-Counting-and-Reporting.rb	/^  def word_list$/;"	f	class:String
